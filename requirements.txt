@@ -1,0 +1,2 @@
+pyqt6
+llama-cpp-python
